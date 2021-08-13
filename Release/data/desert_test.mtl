@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Material.001
+Ns 3.827975
+Ka 0.251208 0.251208 0.251208
+Kd 1.000000 0.550000 0.171429
+Ks 0.700483 0.700483 0.700483
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd sand-texture.jpg
